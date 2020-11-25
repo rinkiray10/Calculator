@@ -1,3 +1,0 @@
-car fence cow 
-car cow goat
-fence cat
